@@ -4,6 +4,7 @@
 # 
 *.googlevideo.com
 https://www.pornhub.com
+https://www.xnxx.com
 
 # Domains under test before being added to main list below
 
